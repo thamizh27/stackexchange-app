@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stackexchange-app/static/css/main.4feaaabf.chunk.css",
+    "main.js": "/stackexchange-app/static/js/main.9e122d5d.chunk.js",
+    "main.js.map": "/stackexchange-app/static/js/main.9e122d5d.chunk.js.map",
+    "runtime-main.js": "/stackexchange-app/static/js/runtime-main.dd067a6c.js",
+    "runtime-main.js.map": "/stackexchange-app/static/js/runtime-main.dd067a6c.js.map",
+    "static/js/2.8d3d2d7a.chunk.js": "/stackexchange-app/static/js/2.8d3d2d7a.chunk.js",
+    "static/js/2.8d3d2d7a.chunk.js.map": "/stackexchange-app/static/js/2.8d3d2d7a.chunk.js.map",
+    "index.html": "/stackexchange-app/index.html",
+    "static/css/main.4feaaabf.chunk.css.map": "/stackexchange-app/static/css/main.4feaaabf.chunk.css.map",
+    "static/js/2.8d3d2d7a.chunk.js.LICENSE.txt": "/stackexchange-app/static/js/2.8d3d2d7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd067a6c.js",
+    "static/js/2.8d3d2d7a.chunk.js",
+    "static/css/main.4feaaabf.chunk.css",
+    "static/js/main.9e122d5d.chunk.js"
+  ]
+}
